@@ -26,7 +26,7 @@ To run this project locally and explore its functionalities, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/ChatBot-Using-GeminiAI-API.git
+   git clone https://github.com/IJNikhil/fluttergemini.git
 
 
 2. Navigate to the project directory:
