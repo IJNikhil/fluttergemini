@@ -73,4 +73,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ### Contact
 
-For inquiries, issues, or suggestions, please [open an issue](https://github.com/your_username/ChatBot-Using-GeminiAI-API/issues).
+For inquiries, issues, or suggestions, please [open an issue](https://github.com/IJNikhil/fluttergemini/issues).
