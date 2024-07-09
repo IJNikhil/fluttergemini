@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCSUoWJZRCwDP6zTAQo9vLwUaZ0A_7d6HY',
+    apiKey: 'apiKey',
     appId: '1:315288722470:web:43ef13253d6c3b2c4f1ae7',
     messagingSenderId: '315288722470',
     projectId: 'aichatbot-e8930',
