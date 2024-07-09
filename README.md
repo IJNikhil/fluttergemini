@@ -27,13 +27,12 @@ To run this project locally and explore its functionalities, follow these steps:
 
    ```bash
    git clone https://github.com/IJNikhil/fluttergemini.git
-   cd fluttergemini/
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ChatBot-Using-GeminiAI-API
+   cd fluttergemini
    ```
 
 3. Install dependencies:
@@ -42,7 +41,7 @@ To run this project locally and explore its functionalities, follow these steps:
    flutter pub get
    ```
 
-4. Add your Gemini AI API credentials to `lib/config.dart`:
+4. Add your Gemini AI API credentials to `lib/utils/constants.dart`:
 
    ```dart
    const apiKey = 'your_api_key_here';
