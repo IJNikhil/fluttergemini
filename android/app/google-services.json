@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315288722470",
+    "project_id": "aichatbot-e8930",
+    "storage_bucket": "aichatbot-e8930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315288722470:android:014bfd0f53554ecf4f1ae7",
+        "android_client_info": {
+          "package_name": "com.example.fluttergemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKVfq29x90qhG6e-K6XHfyCFUUUOg99E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
