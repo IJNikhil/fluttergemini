@@ -27,7 +27,8 @@ To run this project locally and explore its functionalities, follow these steps:
 
    ```bash
    git clone https://github.com/IJNikhil/fluttergemini.git
-
+   cd fluttergemini/
+   ```
 
 2. Navigate to the project directory:
 
